@@ -1,3 +1,11 @@
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&lines=Fullstack+JS+Developer;Production-minded;Heading+into+Software+Architecture)
+
+![Profile Views](https://komarev.com/ghpvc/?username=johanPrise&color=blue&style=flat)
+
+</div>
+
 ## Hi there, I'm Johan 👋
 
 **Fullstack JavaScript developer** — I build web and mobile apps that hold up in production, not just in a demo.
@@ -45,8 +53,34 @@ I learned the craft where code has real consequences: maintaining high-traffic b
 
 ### 📊 GitHub Stats
 
+<div align="center">
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=johanPrise&show_icons=true&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=johanPrise&theme=tokyonight&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanPrise&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=johanPrise&theme=tokyonight&no-frame=true&column=7)
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=johanPrise&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
