@@ -10,24 +10,24 @@
 
 **Fullstack JavaScript developer** — I build web and mobile apps that hold up in production, not just in a demo.
 
-I learned the craft where code has real consequences: maintaining high-traffic banking platforms, fixing critical bugs, and integrating cross-border financial data flows. Reliability, readable code, shipping on time.
+I learned on codebases where mistakes cost something: banking platforms in production, critical bug fixes, cross-border financial data flows. What I care about: code someone else can read, and features that actually ship.
 
-- 🔭 I'm currently working on fullstack side projects (React · React Native · NestJS)
-- 🌱 I'm currently learning software architecture, system design & testing (Jest / Testing Library)
-- 🎓 Starting a Master's in Software Architecture at ESGI, Paris
-- 💼 Looking for a work-study contract for 2026
+- 🔭 Building fullstack side projects (React · React Native · NestJS)
+- 🌱 Digging into software architecture, system design and testing (Jest / Testing Library)
+- 🎓 Starting a Master's in Software Architecture at ESGI Paris (Sept. 2026)
+- 💼 Looking for a 2-year apprenticeship (French *alternance*), Sept. 2026 to 2028
 - 👯 Open to collaborating on fullstack web & mobile projects
-- 💬 Ask me about React, production reliability & building things end-to-end
+- 💬 Ask me about React, or about shipping code into production
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I rebuilt the macOS interface as a portfolio project
+- ⚡ Fun fact: my portfolio is a macOS-style desktop running in the browser
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -41,6 +41,7 @@ I learned the craft where code has real consequences: maintaining high-traffic b
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -51,41 +52,26 @@ I learned the craft where code has real consequences: maintaining high-traffic b
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Selected projects
 
-<div align="center">
+<!-- Remplace les liens [repo] par les vraies URL de tes repos, et supprime les lignes des projets que tu ne veux pas exposer -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=johanPrise&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=johanPrise&theme=tokyonight&hide_border=true)
+**[macOS Portfolio](https://my-portfolio-tau-virid-15.vercel.app/)** · React, TypeScript  
+A portfolio built as a desktop environment: draggable windows, a dock, and apps you open to read about my work.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanPrise&layout=compact&theme=tokyonight&hide_border=true)
+**[MERN chatai blog](#)** · React, Node.js, MongoDB  
+A blogging platform with an AI assistant built in. Auth, content management, and the chatbot integration end to end.
 
-</div>
+**[Shared stock manager](#)** · React Native, NestJS  
+A mobile app to track shared inventory in a flatshare or a small association. Who took what, what needs restocking.
 
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=johanPrise&theme=tokyonight&no-frame=true&column=7)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=johanPrise&theme=tokyo-night&hide_border=true)
-
-</div>
+**[Webhooks as a service](#)** · NestJS  
+An outbound webhook delivery service: retries, signatures, and delivery logs. My playground for architecture patterns.
 
 ---
 
 ### 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johan-yorick-priso-1ba271285)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-yorick-priso-1ba271285)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-tau-virid-15.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prisojohan2@gmail.com)
