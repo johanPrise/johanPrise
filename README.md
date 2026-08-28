@@ -54,18 +54,16 @@ I learned on codebases where mistakes cost something: banking platforms in produ
 
 ### 🚀 Selected projects
 
-<!-- Remplace les liens [repo] par les vraies URL, et supprime les projets que tu ne veux pas exposer -->
-
 **[macOS Portfolio](https://my-portfolio-tau-virid-15.vercel.app/)** · React, TypeScript  
 A portfolio built as a desktop environment: draggable windows, a dock, and apps you open to read about my work.
 
 **[MERN chatai blog](https://github.com/johanPrise/MERN_chatai_blog)** · React, Node.js, MongoDB  
 A blogging platform with an AI assistant built in. Auth, content management, and the chatbot integration end to end.
 
-**[Shared stock manager](#)** · React Native, NestJS  
+**[Shared stock manager](LIEN_A_REMPLACER)** · React Native, NestJS  
 A mobile app to track shared inventory in a flatshare or a small association. Who took what, what needs restocking.
 
-**[Webhooks as a service](#)** · NestJS  
+**[Webhooks as a service](LIEN_A_REMPLACER)** · NestJS  
 An outbound webhook delivery service: retries, signatures, and delivery logs. My playground for architecture patterns.
 
 ---
@@ -74,8 +72,17 @@ An outbound webhook delivery service: retries, signatures, and delivery logs. My
 
 <div align="center">
 
-<img height="200" src="https://github-readme-stats-xi-five-71.vercel.app/api?username=johanPrise&show_icons=true&include_all_commits=true&show=reviews,prs_merged&theme=tokyonight&hide_border=true" />
-<img height="200" src="https://github-readme-stats-xi-five-71.vercel.app/api/top-langs/?username=johanPrise&layout=compact&langs_count=8&card_width=320&hide=php,blade&theme=tokyonight&hide_border=true" />
+<img height="200" src="https://github-readme-stats-xi-five-71.vercel.app/api?username=johanPrise&show_icons=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged&theme=tokyonight&hide_border=true" />
+<img height="200" src="https://github-readme-stats-xi-five-71.vercel.app/api/top-langs/?username=johanPrise&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true" />
+
+<!--
+  Carte WakaTime. Décommente si tu as un compte WakaTime avec :
+  - "Display code time publicly" activé
+  - "Display languages, editors, os, categories publicly" activé
+  Remplace TON_USERNAME_WAKATIME. Compte neuf : compter 24h avant les premières données.
+
+<img height="200" src="https://github-readme-stats-xi-five-71.vercel.app/api/wakatime?username=TON_USERNAME_WAKATIME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+-->
 
 </div>
 
