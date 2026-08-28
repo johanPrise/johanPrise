@@ -54,19 +54,40 @@ I learned on codebases where mistakes cost something: banking platforms in produ
 
 ### 🚀 Selected projects
 
-<!-- Remplace les liens [repo] par les vraies URL de tes repos, et supprime les lignes des projets que tu ne veux pas exposer -->
+<!--
+  Remplace REPO_NAME par le vrai nom du repo dans CHAQUE bloc.
+  La carte affiche automatiquement la description GitHub du repo :
+  soigne-la dans Settings > About, c'est elle que le recruteur lit.
+-->
 
-**[macOS Portfolio](https://my-portfolio-tau-virid-15.vercel.app/)** · React, TypeScript  
-A portfolio built as a desktop environment: draggable windows, a dock, and apps you open to read about my work.
+<div align="center">
 
-**[MERN chatai blog](#)** · React, Node.js, MongoDB  
-A blogging platform with an AI assistant built in. Auth, content management, and the chatbot integration end to end.
+<a href="https://github.com/johanPrise/my-portfolio">
+  <img src="https://github-readme-stats-xi-five-71.vercel.app/api/pin/?username=johanPrise&repo=my-portfolio&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/johanPrise/MERN_chatai_blog">
+  <img src="https://github-readme-stats-xi-five-71.vercel.app/api/pin/?username=johanPrise&repo=MERN_chatai_blog&theme=tokyonight&hide_border=true" />
+</a>
 
-**[Shared stock manager](#)** · React Native, NestJS  
-A mobile app to track shared inventory in a flatshare or a small association. Who took what, what needs restocking.
+<a href="https://github.com/johanPrise/REPO_NAME">
+  <img src="https://github-readme-stats-xi-five-71.vercel.app/api/pin/?username=johanPrise&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/johanPrise/REPO_NAME">
+  <img src="https://github-readme-stats-xi-five-71.vercel.app/api/pin/?username=johanPrise&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
+</a>
 
-**[Webhooks as a service](#)** · NestJS  
-An outbound webhook delivery service: retries, signatures, and delivery logs. My playground for architecture patterns.
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="200" src="https://github-readme-stats-xi-five-71.vercel.app/api?username=johanPrise&show_icons=true&include_all_commits=true&show=reviews,prs_merged&theme=tokyonight&hide_border=true" />
+<img height="200" src="https://github-readme-stats-xi-five-71.vercel.app/api/top-langs/?username=johanPrise&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
