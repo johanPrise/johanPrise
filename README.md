@@ -75,14 +75,9 @@ An outbound webhook delivery service: retries, signatures, and delivery logs. My
 <img height="200" src="https://github-readme-stats-xi-five-71.vercel.app/api?username=johanPrise&show_icons=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged&theme=tokyonight&hide_border=true" />
 <img height="200" src="https://github-readme-stats-xi-five-71.vercel.app/api/top-langs/?username=johanPrise&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true" />
 
-<!--
-  Carte WakaTime. Décommente si tu as un compte WakaTime avec :
-  - "Display code time publicly" activé
-  - "Display languages, editors, os, categories publicly" activé
-  Remplace TON_USERNAME_WAKATIME. Compte neuf : compter 24h avant les premières données.
 
-<img height="200" src="https://github-readme-stats-xi-five-71.vercel.app/api/wakatime?username=TON_USERNAME_WAKATIME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
--->
+
+<img height="200" src="[https://github-readme-stats-xi-five-71.vercel.app/api/wakatime?username=TON_USERNAME_WAKATIME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true](https://github-readme-stats-xi-five-71.vercel.app/api/wakatime?username=johanPrise&layout=compact&theme=tokyonight)" />
 
 </div>
 
